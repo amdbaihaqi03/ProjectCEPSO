@@ -1,3 +1,5 @@
+!pip install streamlit
+
 # ============================================================
 # Streamlit Dashboard for PSO-CVRP
 # Course: JIE42903 – Evolutionary Computing
